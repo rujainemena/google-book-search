@@ -140,7 +140,7 @@ const SearchBooks = () => {
                     styly={{
                       width: "18rem",
                       padding: "15px",
-                      textAlign: "center",
+                      textAlign: "center"
                     }}
                   >
                     <Card.Title>{book.title}</Card.Title>
